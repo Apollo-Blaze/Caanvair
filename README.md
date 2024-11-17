@@ -22,12 +22,6 @@ Canvair is an AI-powered virtual canvas that utilizes computer vision for intuit
 - **Header Folder**: Contains images for the toolbar (color and tool icons).
 - **requirements.txt**: List of Python dependencies.
 
-## Future Improvements
-- Add more gesture controls for advanced features like shape drawing and undo/redo actions.
-- Implement voice commands for tool selection.
-- Save the canvas as an image file.
-- Support multi-user interactions.
-
 ## Contributing
 Feel free to fork the repository and submit pull requests for new features or bug fixes. Your contributions are always welcome!
 
