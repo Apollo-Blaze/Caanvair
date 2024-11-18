@@ -10,6 +10,9 @@ Canvair is an AI-powered virtual canvas that utilizes computer vision for intuit
 - **Interactive Header**: The top header displays available tools dynamically.
 - **Canvas Integration**: Real-time drawing on a canvas with smooth brush and eraser functionalities.
 
+## Demo of the Project
+![Demo](demo.gif)
+
 ## Tech Stack
 - **Python**: For scripting and backend logic.
 - **OpenCV**: For video feed manipulation and real-time hand tracking.
